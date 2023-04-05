@@ -1,5 +1,5 @@
 # Hey, I'm Ricardo Faria!
-I'm a Frontend Developer passionate about the tech world!<br />
+I'm a Frontend Developer passionate about the tech world.<br />
 
 ###### LinkedIn: https://www.linkedin.com/in/ricardo-faria-dev/
 ###### Email: ricardohsfaria123@gmail.com
